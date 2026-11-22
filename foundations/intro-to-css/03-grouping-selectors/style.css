@@ -1,1 +1,5 @@
-/* Add CSS Styling */
+.big-homie, .little {font-size: 28px; font-family: helvetica, "times new roman", "sans Serrif";}
+
+.big-homie {background-color: black; color: white;}
+
+.little {background-color: yellow;}
