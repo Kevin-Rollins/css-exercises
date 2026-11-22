@@ -1,1 +1,7 @@
-/* Add CSS Styling */
+ p { background-color: rgb(255, 0, 123); font-family: verdona, "DejaVu Sans", "sans-serif";
+}
+div {color: rgb(25, 0, 255); font-size: 36px;}
+
+.cool {font-size: 24px;}
+
+.twin { background-color:rgb(109, 245, 4); font-weight: bold; font-size: 24px;}
